@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color:rgb(247, 152, 97);
+    min-height: 100vh;
+}
+
+p{
+    background-color:rgb(121, 56, 2);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(190, 85, 4);
+    padding: 25px;
+}
+
+H2{
+    text-align: center;
+}
+
+UL{
+    color: white;
+}
+
+ol{
+    color: white;
+}
+
+img{
+    max-height: 700px;
+    min-width: 100%;
+}
